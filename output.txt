@@ -1,11 +1,11 @@
 INPUT:
-One day, a girl named Neha went to the market with her mother. She saw a poor child sitting near a shop and asking for food. Neha bought some fruits and gave them to the child. The child smiled and thanked Neha, and she returned home happily.
+One day, a girl named Neha went to the market with her mother. She saw a poor child sitting near a shop and asking for food.
 
 SANSKRIT (संस्कृतम्):
-एकस्मिन् दिने नेहा नामिका बालिका मातुः सह विपण्यं गतवती। सा एकं दरिद्रं बालकं दुकानस्य समीपे उपविश्य भोजनं याचमानं दृष्टवती। नेहा कानिचन फलानि क्रीत्वा बालकाय दत्तवती। बालकः स्मितं कृत्वा नेहां धन्यवादं दत्त्वा सा सुखेन गृहं प्रत्यागतवती।
+एकस्मिन् दिने नेहा नामिका बालिका मातुः सह विपण्यं गतवती। सा एकं दरिद्रं बालकं दुकानस्य समीपे उपविश्य भोजनं याचमानं दृष्टवती।
 
 IAST:
-ekasmin dine nehā nāmikā bālikā mātuḥ saha vipaṇyaṁ gatavatī | sā ekaṁ daridraṁ bālakaṁ dukānasya samīpe upaviśya bhojanaṁ yācamānaṁ dṛṣṭavatī | nehā kānicana phalāni krītvā bālakāya dattavatī | bālakaḥ smitaṁ kṛtvā nehāṁ dhanyavādaṁ dattvā sā sukhena gṛhaṁ pratyāgatavatī |
+ekasmin dine nehā nāmikā bālikā mātuḥ saha vipaṇyaṁ gatavatī | sā ekaṁ daridraṁ bālakaṁ dukānasya samīpe upaviśya bhojanaṁ yācamānaṁ dṛṣṭavatī |
 
 PHONETIC:
-ekasmin dine nehaa naamikaa baalikaa maatuh saha vipanyam gatavatee saa ekam daridram baalakam dukaanasya sameepe upavishya bhojanam yaacamaanam drishtavatee nehaa kaanicana phalaani kreetvaa baalakaaya dattavatee baalakah smitam kritvaa nehaam dhanyavaadam dattvaa saa sukhena griham pratyaagatavatee
+ekasmin dine nehaa naamikaa baalikaa maatuh saha vipanyam gatavatee saa ekam daridram baalakam dukaanasya sameepe upavishya bhojanam yaacamaanam drishtavatee
