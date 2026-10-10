@@ -5,7 +5,9 @@ SANSKRIT (संस्कृतम्):
 एकस्मिन् दिने नेहा नामिका बालिका मातुः सह विपण्यं गतवती। सा एकं दरिद्रं बालकं दुकानस्य समीपे उपविश्य भोजनं याचमानं दृष्टवती।
 
 IAST:
-ekasmin dine nehā nāmikā bālikā mātuḥ saha vipaṇyaṁ gatavatī | sā ekaṁ daridraṁ bālakaṁ dukānasya samīpe upaviśya bhojanaṁ yācamānaṁ dṛṣṭavatī |
+ekasmin dine nehā nāmikā bālikā mātuḥ saha vipaṇyaṁ gatavatī | 
+sā ekaṁ daridraṁ bālakaṁ dukānasya samīpe upaviśya bhojanaṁ yācamānaṁ dṛṣṭavatī |
 
 PHONETIC:
-ekasmin dine nehaa naamikaa baalikaa maatuh saha vipanyam gatavatee saa ekam daridram baalakam dukaanasya sameepe upavishya bhojanam yaacamaanam drishtavatee
+ekasmin dine nehaa naamikaa baalikaa maatuh saha vipanyam gatavatee 
+saa ekam daridram baalakam dukaanasya sameepe upavishya bhojanam yaacamaanam drishtavatee
